@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "cd my-team-board && npm run dev",
+    "build": "cd my-team-board && npm run build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
+    "date-fns": "^4.1.0"
+  }
+}
